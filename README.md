@@ -18,10 +18,10 @@
 
 ## Copy code
 <p>open index.html</p>
-## Usage
+##  Usage
 <p>Enter numbers and perform operations using the provided buttons or the keyboard.
 <p>Use the function buttons for trigonometric, exponential, and logarithmic calculations.</p>
-<p>The "M+" and "MR" buttons can be used to store and recall values from memory.</p>
+
 
 ## Contributing
 <p>Contributions to improve the calculator's functionality or user interface are welcome. Please follow these steps to contribute:</p>
